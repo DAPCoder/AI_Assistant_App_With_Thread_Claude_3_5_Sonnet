@@ -3,5 +3,8 @@ Build an AI Assistant Application with Memory using thread assistant capability 
 
 
 Include config.py file with
-OPENAI_API_KEY = "your-api-key"
-ASSISTANT_ID = "your-assistant-id"
+* OPENAI_API_KEY = "your-api-key"
+* ASSISTANT_ID = "your-assistant-id"
+
+
+Create venv
